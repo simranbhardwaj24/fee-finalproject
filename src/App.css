@@ -1,0 +1,11 @@
+
+.tour-list {
+  display: flex;
+  margin-left: 80px;
+}
+
+.tour {
+  margin-left: 50px; /* No spacing between tours */
+}
+
+
